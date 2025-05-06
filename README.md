@@ -1,6 +1,6 @@
 # Hi, I'm Harish 👋
 
-Welcome to my GitHub! I'm a hands-on data scientist and former solution architect who is passionate about building intelligent systems using AI, NLP, and automation. I enjoy working on projects that turn real-world messiness into structured, actionable insights, whether that's scraping product data, extracting text from PDFS, or matching resumes to job roles with semantic search.
+Welcome to my GitHub! I'm a hands-on data scientist and former solution architect who is passionate about building intelligent systems using AI, NLP, and automation. I enjoy working on projects that turn real-world messiness into structured, actionable insights.
 
 ---
 
@@ -13,9 +13,9 @@ Welcome to my GitHub! I'm a hands-on data scientist and former solution architec
   - AI/ML projects spanning resume intelligence, OCR pipelines, product analytics, and game logic
 
 🎓 **Education**:  
-  - MSc in Data Science – *University of Nottingham*  
-  - PGDM in Data Science  
-  - BSc in Computer Science
+  - MSc in Data Science – *University of Nottingham* - Uk 
+  - PGDM in Data Science  - India
+  - BSc in Computer Science - India
 
 ---
 
@@ -29,24 +29,4 @@ Welcome to my GitHub! I'm a hands-on data scientist and former solution architec
 **Visualization**: Power BI, Matplotlib, Plotly 
 
 ---
-
-## 🌟 Projects & Highlights
-
-- **🧾 Resume Critique + Reverse Job Matcher**  
-  Built a tool using GPT, TF-IDF, and vector DBs to provide resume feedback, suggest job roles, and identify matching companies.
-  
-- **📄 PDF Data Extraction Tool**  
-  Automated data extraction from multi-column PDFs using OCR (Tesseract), sentence segmentation (spaCy), and clustering.
-
-- **🎗️ Breast Cancer Diagnosis**  
-  Achieved 76% accuracy using a feedforward neural network for binary classification.
-
-- **🎮 Rummikub with AI**  
-  Developed a multiplayer game with AI that learns how to optimize card selection from an open deck.
-
-- **🛍️ Myntra Product Analyzer**  
-  Built a web scraper and keyword matching engine using BeautifulSoup, FuzzyWuzzy, and TF-IDF for product descriptions.
-
----
-
 Always looking to collaborate on meaningful AI projects. Let’s build something cool together!
