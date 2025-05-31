@@ -21,11 +21,11 @@ Welcome to my GitHub! I'm a hands-on data scientist and former solution architec
 
 ## 🛠️ Technical Skills
 
-**Languages**: Python, SQL, JavaScript  
+**Languages**: Python, SQL
 **Libraries/Frameworks**: Scikit-learn, TensorFlow, Keras, PyTorch, spaCy, NLTK, LangChain, LangGraph  
 **AI/ML**: Transformers, OCR, Classification, Clustering, RAG, Vector DBs  
-**Tools**: Postman, Docker, Streamlit, FastAPI, Selenium, Git  
-**Cloud**: AWS (Lambda, S3), GCP, Azure  
+**Tools**: Postman, Docker, Streamlit, FastAPI, Git  
+**Cloud**: AWS 
 **Visualization**: Power BI, Matplotlib, Plotly 
 
 ---
