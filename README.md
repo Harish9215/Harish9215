@@ -1,32 +1,63 @@
-# Hi, I'm Harish 👋
+# 👋 Hello world! 🌍  
+Welcome to my GitHub! I'm Harish — a hands-on **Data Scientist** and former **Solution Architect**, passionate about building intelligent systems using **AI**, **NLP**, and **automation**.
+---
 
-Welcome to my GitHub! I'm a hands-on data scientist and former solution architect who is passionate about building intelligent systems using AI, NLP, and automation. I enjoy working on projects that turn real-world messiness into structured, actionable insights.
+🧑‍💻 **About Me**  
+I'm a curious builder based in 🇮🇳 India. My work sits at the intersection of AI, data, and real-world impact.
+
+🎯 **Focus Areas**:
+- Generative AI and LLM apps with LangChain & vector DBs
+- OCR pipelines, RAG systems, and NLP automation
+- Building UI + backend for intelligent tools
+
+💼 **Experience**:
+- 🏢 *Solution Architect at Moxo*  
+- 🤖 Built systems for resume intelligence, OCR, product analytics, and game logic  
+- 👨‍💻 Worked with clients like Emirates NBD & Raiffeisen Bank  
+
+🎓 **Education**:
+- MSc in Data Science – *University of Nottingham (UK)*  
+- PGDM in Data Science – *India*  
+- BSc in Computer Science – *India*
 
 ---
 
-## 👨‍💻 About Me
+## 🔭 What I’m Working on
 
-🧠 **Current Focus**: Generative AI, NLP, and intelligent automation  
-
-🏢 **Previous Experience**:  
-  - Solution Architect at **Moxo** – delivering integrated SDK-based solutions for banks and enterprises  
-  - AI/ML projects spanning resume intelligence, OCR pipelines, product analytics, and game logic
-
-🎓 **Education**:  
-  - MSc in Data Science – *University of Nottingham* - Uk 
-  - PGDM in Data Science  - India
-  - BSc in Computer Science - India
+- ✨ Resume Critique + Reverse Job Matcher (GPT-powered)
+- 📄 PDF Data Extraction Tool (OCR + NLP)
+- 📊 Breast Cancer Prediction (XGBoost, NN)
+- 🕹️ Rummikub Game AI
+- 🛍️ Myntra Scraper + Keyword Analysis
 
 ---
 
-## 🛠️ Technical Skills
+## ⚒️ Tech I work with
 
-**Languages**: Python, SQL
-**Libraries/Frameworks**: Scikit-learn, TensorFlow, Keras, PyTorch, spaCy, NLTK, LangChain, LangGraph  
-**AI/ML**: Transformers, OCR, Classification, Clustering, RAG, Vector DBs  
-**Tools**: Postman, Docker, Streamlit, FastAPI, Git  
-**Cloud**: AWS 
-**Visualization**: Power BI, Matplotlib, Plotly 
+### 🧠 AI/ML Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?logo=data&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+### 🛠️ Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+### ☁️ Cloud & DB
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
-Always looking to collaborate on meaningful AI projects. Let’s build something cool together!
+
+📫 Wanna talk?  
+Feel free to reach out — I love collaborating on meaningful AI projects.  
+📌 [Portfolio](https://type.link/preview/harishmohan1598/home) • 📧 [Email](mailto:me@harishm.dev111) • 💬 [LinkedIn](https://www.linkedin.com/in/harishm1998/)
+
+---
