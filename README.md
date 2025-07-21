@@ -1,5 +1,5 @@
 # 👋 Hello world! 🌍  
-Welcome to my GitHub! I'm Harish — a hands-on **Data Scientist** and former **Solution Architect**, passionate about building intelligent systems using **AI**, **NLP**, and **automation**.
+Welcome to my GitHub! I'm Harish; a hands-on **Data Scientist** and former **Solution Architect**, passionate about building intelligent systems using **AI**, **NLP**, and **automation**.
 ---
 
 🧑‍💻 **About Me**  
