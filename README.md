@@ -1,76 +1,66 @@
-# 👋 Hello!  
-Welcome to my GitHub — I’m **Harish Mohan**, an **Applied AI Engineer** with a background in **solution architecture** and **product engineering**. I enjoy building practical AI systems that turn raw data into reliable, actionable intelligence.
+# Harish Mohan
+
+**Applied AI Engineer** · LLM applications, RAG, voice AI, document intelligence · Bangalore, India
+MSc Data Science, University of Nottingham · 4+ years of professional experience
+
+**Open to:** Applied AI / GenAI Engineering roles · Bangalore & Remote · [notice period]
+
+[Portfolio](https://harishm.vercel.app) · [LinkedIn](https://www.linkedin.com/in/harishm1998/) · [Email](mailto:harishmohan1598@gmail.com)
 
 ---
 
-## 🧑‍💻 About Me  
-I’m a hands-on builder based in 🇮🇳 India. My work sits at the intersection of **AI engineering, system design, and real-world problem solving** — focusing on solutions that are practical, explainable, and deployable.
+## About
 
-I’m especially interested in **local-first AI**, applied GenAI systems, and end-to-end pipelines that bridge models with usable products.
+I build LLM-powered applications and take them from model to working product: retrieval pipelines, voice systems, document extraction and the APIs around them. I focus on local-first, privacy-preserving setups that run on Ollama and open models, and I can switch to hosted APIs when a project needs it.
 
----
+Before AI engineering I spent four years in product engineering and enterprise solution architecture, designing API-driven workflow automation for banking and financial services clients.
 
-## 🎯 Focus Areas
-- Applied **Generative AI** and **LLM-based systems**
-- **Voice AI**, conversational pipelines, and automation
-- **OCR + NLP** pipelines for document intelligence
-- Building full-stack AI tools (backend + UI)
 
 ---
 
-## 💼 Experience Highlights
-- 🏢 **Solution Architect @ Moxo**  
-  Designed and implemented backend automation and API-driven workflows for enterprise banking clients, including **Emirates NBD** and **Raiffeisen Bank**.
-- 🤖 Built applied AI systems across voice interaction, document processing, analytics, and game logic.
-- 🧩 Strong background in translating business requirements into scalable technical solutions.
+## Experience
+
+Solution Architect — Moxo
+
+2022 – 2024
+
+* Designed and implemented API-driven integrations between enterprise client platforms and the Moxo SDK.
+* Developed workflow automation and document-processing solutions, with Python automation reducing manual processing effort by up to 40%.
+* Led technical discovery, solution design and implementation for enterprise banking clients across multiple markets.
+* Managed API testing, SDK integrations, troubleshooting and technical documentation using REST APIs, Postman and Android SDK.
+
+Product Engineer — IKU (Adium Technologies)
+
+August 2020 – July 2022
+
+* Contributed to the development of a sustainability-focused mobile application, working across product design and software implementation.
+* Developed data-driven application interfaces and analytics dashboards to support user engagement and product insights.
+* Collaborated with cross-functional teams on feature development, user analytics and application improvements.
+
+AI Analyst (Freelance) — Mindrift
+
+March 2024 – Present
+
+* Evaluate large language model outputs for factual accuracy, reasoning quality and instruction adherence.
+* Analyse AI-generated responses, identifying hallucinations, logical inconsistencies and potential failure modes.
+* Perform response annotation, ranking and quality assessment to support LLM evaluation and improvement.
+* Assess model behaviour across diverse tasks, focusing on reliability, reasoning and response quality.
 
 ---
 
-## 🎓 Education
-- **MSc in Data Science** — University of Nottingham (UK)  
-- **PGDM in Data Science** — India  
-- **B.E. in Electronics & Communication Engineering** — India  
+## Technical Skills
+
+| | |
+|---|---|
+| **LLM / GenAI** | RAG, prompt engineering, LangChain, Ollama, OpenAI API, FAISS, sentence-transformers |
+| **Speech** | Whisper (STT), Piper (TTS) |
+| **Document AI** | Tesseract OCR, spaCy, PyMuPDF, TF-IDF, K-Means |
+| **ML / Data** | Python, scikit-learn, XGBoost, PyTorch, Spark MLlib, Pandas |
+| **Backend** | FastAPI, REST APIs, Streamlit, SQL |
+| **Tooling** | Git, Docker, AWS, Postman |
 
 ---
 
-## 🔭 What I’m Working On
-- ✨ **Resume Critique + Reverse Job Matcher** (LLM-powered)
-- 🎙️ **VoiceOps AI** — local-first voice interaction system
-- 📄 **PDF Data Extraction Tool** (OCR + NLP)
-- 📊 **Breast Cancer Prediction** (XGBoost, Neural Networks)
-- 🕹️ **Rummikub Game AI**
-- 🛍️ **Myntra Scraper & Keyword Analysis**
-
----
-
-## ⚒️ Tech I Work With
-
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFB000?logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-
-### 🛠️ Systems & Tooling
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
-### ☁️ Cloud & Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
-
----
-
-📫 **Let’s connect**  
-I’m always open to discussing applied AI systems, collaboration, or interesting problems.
-
-🔗 [Portfolio](https://harishm.vercel.app)  
-💼 [LinkedIn](https://www.linkedin.com/in/harishm1998/)  
-📧 [Email](mailto:harishmohan1598@gmail.com)
-
----
+## Education
+- **MSc Data Science** — University of Nottingham, UK
+- **B.E. Electronics & Communication Engineering** — Dayananda Sagar College of Engineering, Bangalore (2017 – 2021)
